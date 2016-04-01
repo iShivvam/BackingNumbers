@@ -2,7 +2,7 @@
 
 Mit BackingNumbers soll eine App programmiert werden, die Bäckern, Konditoren und allen die sich für das Backhandwerk begeistern zur verfügug stehen soll.
 
-Das Programm soll dem Benutzer mit Hilfe von Schlüsselzahl es ermöglichen auf einfachstem Wege, Mengen von zu verarbeitenden Zutaten umzurechen, um somit ein Rezept zu vergößern oder wahlweise zu verkleinern.
+Das Programm möchte dem Benutzer mit Hilfe von Schlüsselzahl es ermöglichen auf einfachstem Wege, Mengen von zu verarbeitenden Zutaten umzurechen, um somit ein Rezept zu vergößern oder wahlweise zu verkleinern.
 
 Das errechnen von Schlüsselzahlen verhält sich im Grunde wie der klassische Dreisatz.
 
